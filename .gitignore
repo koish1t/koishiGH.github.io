@@ -1,0 +1,2 @@
+open py server.bat
+run py server.bat

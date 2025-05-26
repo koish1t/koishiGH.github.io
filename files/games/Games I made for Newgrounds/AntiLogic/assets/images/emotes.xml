@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="emotes.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="angry right 0000" x="0" y="0" width="81" height="108"/>
+	<SubTexture name="angry right 0001" x="81" y="0" width="81" height="108"/>
+	<SubTexture name="angry wrong 0000" x="162" y="0" width="81" height="108"/>
+	<SubTexture name="smiley right 0000" x="0" y="108" width="80" height="72"/>
+	<SubTexture name="smiley wrong 0000" x="80" y="108" width="80" height="72"/>
+</TextureAtlas>

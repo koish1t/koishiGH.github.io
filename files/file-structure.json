@@ -1,0 +1,143 @@
+{
+    "files": [
+        {
+            "type": "directory",
+            "name": "site-files",
+            "lastModified": "2025-05-25",
+            "children": [
+                {
+                    "type": "image",
+                    "name": "fatass.jpeg",
+                    "lastModified": "2025-05-25"
+                },
+                {
+                    "type": "image",
+                    "name": "tetoBG.png",
+                    "lastModified": "2025-05-25"
+                },
+                {
+                    "type": "directory",
+                    "name": "random-media",
+                    "lastModified": "2025-05-25",
+                    "children": [
+                        {
+                            "type": "video",
+                            "name": "bakuretsu.mp4",
+                            "lastModified": "2025-05-25"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "directory",
+            "name": "games",
+            "lastModified": "2025-05-25",
+            "children": [
+                {
+                    "type": "directory",
+                    "name": "Games I made for Newgrounds",
+                    "lastModified": "2025-05-25",
+                    "children": [
+                        {
+                            "type": "game",
+                            "name": "AntiLogic",
+                            "lastModified": "2025-02-16"
+                        },
+                        {
+                            "type": "game",
+                            "name": "The maybekoi discord.com experience (HTML5 Port)",
+                            "lastModified": "2025-04-23"
+                        }
+                    ]
+                },
+                {
+                    "type": "game",
+                    "name": "Prodigy 1.60.0",
+                    "lastModified": "2025-05-25"
+                }
+            ]
+        },
+        {
+            "type": "directory",
+            "name": "Projects",
+            "lastModified": "2025-05-25",
+            "children": [
+                {
+                    "type": "directory",
+                    "name": "koshii github account repos",
+                    "lastModified": "2025-05-25",
+                    "children": [
+                        {
+                            "type": "link",
+                            "name": "HaxeInstaller",
+                            "lastModified": "2025-05-25",
+                            "url": "https://github.com/koishiGH/HaxeInstaller"
+                        },
+                        {
+                            "type": "link",
+                            "name": "SwitchTools",
+                            "lastModified": "2025-05-25",
+                            "url": "https://github.com/koishiGH/SwitchTools"
+                        },
+                        {
+                            "type": "link",
+                            "name": "ForeverLib",
+                            "lastModified": "2025-05-25",
+                            "url": "https://github.com/koishiGH/ForeverLib"
+                        }
+                    ]
+                },
+                {
+                    "type": "directory",
+                    "name": "main projects n' shit!",
+                    "lastModified": "2025-05-25",
+                    "children": [
+                        {
+                            "type": "link",
+                            "name": "Hamburger Engine - C++ Game Engine",
+                            "lastModified": "2025-05-25",
+                            "url": "https://github.com/hamburgerEngine/hamburgerEngine"
+                        },
+                        {
+                            "type": "link",
+                            "name": "NGio-CPP - A C++ library for the Newgrounds API.",
+                            "lastModified": "2025-05-25",
+                            "url": "https://github.com/hamburgerEngine/NGio-CPP"
+                        },
+                        {
+                            "type": "link",
+                            "name": "NeoFlixel - A remake/port of flixel to c++ & sdl2",
+                            "lastModified": "2025-05-25",
+                            "url": "https://github.com/NeoFlixel-Org/NeoFlixel"
+                        },
+                        {
+                            "type": "link",
+                            "name": "S2HD - A decompilation of Sonic 2 HD.",
+                            "lastModified": "2025-05-25",
+                            "url": "https://github.com/2HDModding/S2HD"
+                        },
+                        {
+                            "type": "link",
+                            "name": "Celeste Decompilation",
+                            "lastModified": "2025-05-25",
+                            "url": "https://github.com/maybekoi/Celeste"
+                        },
+                        {
+                            "type": "link",
+                            "name": "AntiLogic (source code)",
+                            "lastModified": "2025-05-25",
+                            "url": "https://github.com/maybekoi/AntiLogic-Git"
+                        },
+                        {
+                            "type": "link",
+                            "name": "hmm (haxe module manager) c++ remake",
+                            "lastModified": "2025-05-25",
+                            "url": "https://github.com/maybekoi/hmm-cpp"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+} 
