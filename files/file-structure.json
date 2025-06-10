@@ -60,6 +60,18 @@
         },
         {
             "type": "directory",
+            "name": "storage",
+            "lastModified": "2025-06-10",
+            "children": [
+                {
+                    "type": "video",
+                    "name": "quit_making_music.mp4",
+                    "lastModified": "2025-06-10"
+                }
+            ]
+        },        
+        {
+            "type": "directory",
             "name": "Projects",
             "lastModified": "2025-05-25",
             "children": [
