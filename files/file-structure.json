@@ -67,6 +67,217 @@
                     "type": "video",
                     "name": "quit_making_music.mp4",
                     "lastModified": "2025-06-10"
+                },
+                {
+                    "type": "directory",
+                    "name": "dumb-stuffs",
+                    "lastModified": "2025-06-10",
+                    "children": [
+                        {
+                            "type": "directory",
+                            "name": "games",
+                            "lastModified": "2024-08-30",
+                            "children": [
+                                {
+                                    "type": "file",
+                                    "name": "Aseprite.v1.3.zip",
+                                    "lastModified": "2024-08-30"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "directory",
+                            "name": "memes",
+                            "lastModified": "2024-08-30",
+                            "children": [
+                                {
+                                    "type": "image",
+                                    "name": "4ed2d73138c65ee003212df233e7edb2.webp",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "video",
+                                    "name": "2023-06-09_17-34-42.mp4",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "video",
+                                    "name": "2023-06-24_12-35-16.mp4",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "video",
+                                    "name": "exhe_fnf.mov",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "video",
+                                    "name": "Lala.mp4",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "file",
+                                    "name": "mewhenIfindsomethingfunny.mp3",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "video",
+                                    "name": "oBnB2YAjgLqYVDt4.mp4",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "video",
+                                    "name": "R_EZeXbUfxi-nfCn.mp4",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "video",
+                                    "name": "vwkjQnge2C_xhvOA.mp4",
+                                    "lastModified": "2024-08-30"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "directory",
+                            "name": "musics",
+                            "lastModified": "2024-08-30",
+                            "children": [
+                                {
+                                    "type": "file",
+                                    "name": "IN_YOUR_PLACE_INST.mp3",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "file",
+                                    "name": "IN_YOUR_PLACE_INST.ogg",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "file",
+                                    "name": "real.mp3",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "file",
+                                    "name": "Universal_Crash.wav",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "file",
+                                    "name": "Your_Reality.mp3",
+                                    "lastModified": "2024-08-30"
+                                }     
+                            ]
+                        },
+                        {
+                            "type": "directory",
+                            "name": "pics",
+                            "lastModified": "2024-08-30",
+                            "children": [
+                                {
+                                    "type": "image",
+                                    "name": "1105933405968932935.png",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "image",
+                                    "name": "FvIbYXGakAAA1BA.jpg",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "image",
+                                    "name": "FvwVDAQaUAUuDsD.jfif",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "image",
+                                    "name": "FwOuSTGacAEvuso.png",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "image",
+                                    "name": "Fxor4BgaUAAjkyK.jpg",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "image",
+                                    "name": "silly_goofy_guy.jpg",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "image",
+                                    "name": "wooo_small.gif",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "image",
+                                    "name": "YujiUekawaSonicTenthAnniv.gif",
+                                    "lastModified": "2024-08-30"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "directory",
+                            "name": "sound effects",
+                            "lastModified": "2024-08-30",
+                            "children": [
+                                {
+                                    "type": "file",
+                                    "name": "COME_ON.mp3",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "file",
+                                    "name": "exe_lauh.mp3",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "file",
+                                    "name": "too_slow_encore_chase_music.mp3",
+                                    "lastModified": "2024-08-30"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "directory",
+                            "name": "SWF",
+                            "lastModified": "2024-08-30",
+                            "children": [
+                                {
+                                    "type": "file",
+                                    "name": "Mario_Combat.swf",
+                                    "lastModified": "2024-08-30"
+                                },
+                                {
+                                    "type": "file",
+                                    "name": "ultimate-flash-sonic.swf",
+                                    "lastModified": "2024-08-30"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "directory",
+                            "name": "zips",
+                            "lastModified": "2024-08-30",
+                            "children": [
+                                {
+                                    "type": "file",
+                                    "name": "PizzaTower_GM2_SAVEDATA.zip",
+                                    "lastModified": "2024-08-30"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "file",
+                            "name": "funkin.zip",
+                            "lastModified": "2024-08-30"
+                        },
+                        {
+                            "type": "image",
+                            "name": "Untitled19_20231230200543.png",
+                            "lastModified": "2024-08-30"
+                        }
+                    ]
                 }
             ]
         },        
