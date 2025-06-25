@@ -11,9 +11,21 @@
                     "lastModified": "2025-05-25"
                 },
                 {
-                    "type": "image",
-                    "name": "tetoBG.png",
-                    "lastModified": "2025-05-25"
+                    "type": "directory",
+                    "name": "bgs",
+                    "lastModified": "2025-05-25",
+                    "children": [
+                        {
+                            "type": "image",
+                            "name": "tetoBG.png",
+                            "lastModified": "2025-05-25"
+                        },
+                        {
+                            "type": "image",
+                            "name": "vivianBG.jpg",
+                            "lastModified": "2025-05-25"
+                        }
+                    ]
                 },
                 {
                     "type": "directory",
