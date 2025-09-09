@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-16"?>
-<TextureAtlas imagePath="questionbox.png">
-	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
-	<!-- http://www.adobe.com/products/flash.html -->
-	<SubTexture name="question base instance 10000" x="0" y="0" width="315" height="190"/>
-	<SubTexture name="question base instance 10001" x="0" y="190" width="315" height="190"/>
-	<SubTexture name="question base instance 10002" x="0" y="380" width="315" height="190"/>
-	<SubTexture name="question base instance 10003" x="0" y="570" width="315" height="190"/>
-</TextureAtlas>
