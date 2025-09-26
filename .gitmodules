@@ -1,0 +1,3 @@
+[submodule "file-browser"]
+	path = file-browser
+	url = https://github.com/koish1t/file-browser
